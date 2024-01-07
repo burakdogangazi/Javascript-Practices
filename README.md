@@ -1,1 +1,1 @@
-# Java Practices
+# Javascript Practices
